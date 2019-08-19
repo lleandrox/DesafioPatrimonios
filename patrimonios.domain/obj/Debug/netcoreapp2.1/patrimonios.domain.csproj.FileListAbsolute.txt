@@ -1,0 +1,17 @@
+C:\Users\loliveira\source\patrimonios.domain\bin\Debug\netcoreapp2.1\patrimonios.domain.deps.json
+C:\Users\loliveira\source\patrimonios.domain\bin\Debug\netcoreapp2.1\patrimonios.domain.dll
+C:\Users\loliveira\source\patrimonios.domain\bin\Debug\netcoreapp2.1\patrimonios.domain.pdb
+C:\Users\loliveira\source\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.csproj.CoreCompileInputs.cache
+C:\Users\loliveira\source\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.AssemblyInfoInputs.cache
+C:\Users\loliveira\source\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.AssemblyInfo.cs
+C:\Users\loliveira\source\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.dll
+C:\Users\loliveira\source\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.pdb
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\bin\Debug\netcoreapp2.1\patrimonios.domain.deps.json
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\bin\Debug\netcoreapp2.1\patrimonios.domain.dll
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\bin\Debug\netcoreapp2.1\patrimonios.domain.pdb
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.csprojAssemblyReference.cache
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.csproj.CoreCompileInputs.cache
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.AssemblyInfoInputs.cache
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.AssemblyInfo.cs
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.dll
+C:\Users\loliveira\source\repos\ProjetoPatrimonios\patrimonios.domain\obj\Debug\netcoreapp2.1\patrimonios.domain.pdb
